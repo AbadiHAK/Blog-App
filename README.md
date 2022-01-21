@@ -1,7 +1,9 @@
 <div align="center">
-  <h1>Very simple App to fetch data from our laravel API <a herf="https://github.com/AbadiHAK/Blog-api">Blog-api</a></h1>
-  <p>You need to run <a herf="https://github.com/AbadiHAK/Blog-api">Blog-api</a>for the app to work properly</p>
+  <h1>Very simple App to fetch data from our laravel API Blog-api</h1>
 </div>
+
+You need to run [Blog-api](https://github.com/AbadiHAK/Blog-api) for the app to work properly 
+
 
 ![API-TEST.png](https://i.suar.me/q7N6V/l)
 
